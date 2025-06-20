@@ -1,4 +1,4 @@
-# 🧠 Tifinagh Character Recognition using RGB Images and MLP (from scratch)
+# Tifinagh Character Recognition using RGB Images and MLP (from scratch)
 
 This project implements a **Multi-Layer Perceptron (MLP)** in pure NumPy to classify **Tifinagh characters** from RGB images. It includes:
 
@@ -10,7 +10,7 @@ This project implements a **Multi-Layer Perceptron (MLP)** in pure NumPy to clas
 
 ---
 
-## 🖼️ Dataset
+## Dataset
 
 - **Name:** AMHCD-64
 - **Content:** 64x64 RGB images of Tifinagh characters
@@ -22,7 +22,7 @@ This project implements a **Multi-Layer Perceptron (MLP)** in pure NumPy to clas
 
 ---
 
-## 🧠 Model Architecture
+##  Model Architecture
 
 | Layer            | Details               |
 |------------------|------------------------|
@@ -38,7 +38,7 @@ Other features:
 
 ---
 
-## 🏋️ Training Details
+##  Training Details
 
 - **Epochs:** 100  
 - **Batch size:** 64  
